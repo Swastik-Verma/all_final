@@ -16,4 +16,4 @@ This project uses Natural Language Processing (NLP) techniques to predict stock 
 ## Deployment
 
 Access the live app here:  
-**[Click to Visit the Web App](web-production-dea5.up.railway.app)**
+**[Click to Visit the Web App](https://web-production-dea5.up.railway.app)**
